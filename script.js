@@ -50,6 +50,12 @@ envelope.addEventListener("click", () => {
         <br><br>
         <strong>Una de las cosas más bonitas de este mes ha sido descubrir quién eres.</strong>
         <br><br>
+        También hay pequeños momentos que, aunque puedan parecer simples, para mí han tenido un significado muy especial. Como nuestras noches viendo Betty.
+        <br><br>
+        Siempre fue una novela que disfrutaba mucho, pero durante mucho tiempo la vi solo, repitiéndola una y otra vez sin tener a alguien con quien compartir esas escenas, esos momentos y esas emociones que me generaba. Poder verla contigo ha sido algo muy bonito para mí, porque algo que antes era una pequeña rutina en compañía de mí mismo se convirtió en un espacio que ahora comparto contigo.
+        <br><br>
+        Me gusta pensar que, de alguna forma, una historia que ya conocía pudo sentirse diferente simplemente porque estaba viviéndola junto a alguien más. Y creo que eso dice mucho de lo especial que pueden llegar a ser las cosas cuando se comparten con la persona adecuada.
+        <br><br>
         Me gusta que podamos hablar de cosas profundas y, unos minutos después, terminar riéndonos por cualquier tontería. Me gusta que contigo las conversaciones se sientan naturales. Me gusta que podamos ser sinceros, incluso cuando no es lo más fácil. Y me gusta que, mientras más te conozco, más razones encuentro para admirarte.
         <br><br>
         Creo que este mes me recordó que las conexiones más bonitas no nacen porque todo salga perfecto. Nacen cuando dos personas deciden escucharse, hablar con honestidad y seguir construyendo desde ahí.
@@ -126,4 +132,3 @@ setInterval(() => {
         );
     }
 }, 4500);
-
