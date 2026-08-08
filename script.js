@@ -24,7 +24,7 @@ envelope.addEventListener("click", () => {
         <br><br>
         Y me dieron ganas de escribirte.
         <br><br>
-        Puede que un mes no parezca mucho, pero cuando miro hacia atrás siento que en este tiempo han cabido muchas cosas. Conversaciones que me hicieron reír, otras que me hicieron pensar y una que, aunque fue incómoda, hoy agradezco muchísimo que hayamos tenido.
+        Puede que un mes no parezca mucho, pero cuando miro hacia atrás siento que en este tiempo han cabido muchas cosas. Conversaciones que me hicieron reír, otras que me hicieron pensar y algunas que, aunque fueron incómodas, hoy agradezco muchísimo que hayamos tenido.
         <br><br>
         Hay algo con lo que quería empezar este mensaje: <strong>darte las gracias.</strong>
         <br><br>
@@ -38,7 +38,7 @@ envelope.addEventListener("click", () => {
         <br><br>
         No porque me dijeras lo que quería escuchar, sino precisamente porque no lo hiciste.
         <br><br>
-        Después de hablar contigo ese día me quedé con una tranquilidad muy bonita. Sentí que podíamos hablar de cosas difíciles sin dejar de cuidarnos. Creo que esa conversación, lejos de alejarnos, nos permitió conocernos desde un lugar mucho más real. Y eso es algo que valoro muchísimo.
+        Después de hablar contigo ese día me quedé con una sensación muy bonita: la de saber que podíamos hablar de cosas difíciles sin dejar de cuidarnos. Creo que esa conversación, lejos de alejarnos, nos permitió conocernos desde un lugar mucho más real. Y eso es algo que valoro muchísimo.
         <br><br>
         También quiero pedirte perdón por algo.
         <br><br>
@@ -46,21 +46,25 @@ envelope.addEventListener("click", () => {
         <br><br>
         Conocerte me hizo mucha ilusión y, por momentos, dejé que esa ilusión fuera un poco más rápido que nosotros. Hoy entiendo mejor que acompañar a alguien también significa respetar sus tiempos, sus procesos y todo aquello que todavía está intentando entender de sí misma. Gracias por tener la confianza de compartir parte de ese proceso conmigo.
         <br><br>
+        También he aprendido que conocerte significa entender que no todo tiene que tener una respuesta inmediata. Hay cosas que necesitan tiempo, conversaciones y simplemente espacio para irse entendiendo. Y creo que aprender eso también ha sido parte de conocerte.
+        <br><br>
         Hay algo que he descubierto este mes.
         <br><br>
         <strong>Una de las cosas más bonitas de este mes ha sido descubrir quién eres.</strong>
         <br><br>
         También hay pequeños momentos que, aunque puedan parecer simples, para mí han tenido un significado muy especial. Como nuestras noches viendo Betty.
         <br><br>
-        Siempre fue una novela que disfrutaba mucho, pero durante mucho tiempo la vi solo, repitiéndola una y otra vez sin tener a alguien con quien compartir esas escenas, esos momentos y esas emociones que me generaba. Poder verla contigo ha sido algo muy bonito para mí, porque algo que antes era una pequeña rutina en compañía de mí mismo se convirtió en un espacio que ahora comparto contigo.
+        Durante mucho tiempo tuve la costumbre de ver Betty solo, repitiéndola una y otra vez. Era algo que disfrutaba por mi cuenta, una pequeña rutina que ya formaba parte de mí. Por eso, poder empezar a compartir esas noches contigo tuvo un significado mucho más grande de lo que quizá imaginas.
         <br><br>
-        Me gusta pensar que, de alguna forma, una historia que ya conocía pudo sentirse diferente simplemente porque estaba viviéndola junto a alguien más. Y creo que eso dice mucho de lo especial que pueden llegar a ser las cosas cuando se comparten con la persona adecuada.
+        Me gustó descubrir que algo que durante tanto tiempo había disfrutado solo podía sentirse diferente simplemente porque ahora estaba compartiéndolo contigo. Terminé asociando esas noches, esas escenas y todas las tonterías que comentábamos con un momento que ahora recuerdo con muchísimo cariño.
+        <br><br>
+        Y creo que eso es lo bonito de compartir algo con alguien: no necesariamente necesitas descubrir algo nuevo para que se vuelva especial. A veces basta con vivir de una manera diferente algo que ya conocías.
         <br><br>
         Me gusta que podamos hablar de cosas profundas y, unos minutos después, terminar riéndonos por cualquier tontería. Me gusta que contigo las conversaciones se sientan naturales. Me gusta que podamos ser sinceros, incluso cuando no es lo más fácil. Y me gusta que, mientras más te conozco, más razones encuentro para admirarte.
         <br><br>
-        Creo que este mes me recordó que las conexiones más bonitas no nacen porque todo salga perfecto. Nacen cuando dos personas deciden escucharse, hablar con honestidad y seguir construyendo desde ahí.
+        Creo que este mes me recordó que las conexiones más bonitas no nacen porque todo salga perfecto. Nacen cuando dos personas deciden escucharse, hablar con honestidad y seguir conociéndose desde ahí.
         <br><br>
-        Y eso es algo que agradezco mucho de nosotros.
+        Y eso es algo que agradezco muchísimo de lo que estamos viviendo.
         <br><br>
         Hay algo que ya sabes, pero igual quería recordártelo.
         <br><br>
@@ -74,7 +78,7 @@ envelope.addEventListener("click", () => {
         <br><br>
         De verdad me alegra muchísimo haberte encontrado.
         <br><br>
-        <strong>Te quiero. ❤️</strong>
+        <strong>Te quiero. </strong>
     `;
 });
 
